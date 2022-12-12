@@ -25,7 +25,7 @@ Large-scale nonlinear Granger causality adopts theoretical concepts from Granger
 
 ## Results
 - To evaluate the approach, several benchmark simulations are considered and performance is compared to four state-of-the-art approaches.
-- Supplementary information regarding the implementation is here: https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-021-87316-6/MediaObjects/41598_2021_87316_MOESM1_ESM.pdf
+- Supplementary information regarding the implementation is [here](https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-021-87316-6/MediaObjects/41598_2021_87316_MOESM1_ESM.pdf).
 
 ## Cite
 If you use this code (partially or as a whole), please cite the following paper:
