@@ -1,3 +1,5 @@
+The repo still is being updated regularly. 
+
 # Codes for nonlinear Granger causality (lsNGC)
  Large-scale nonlinear Granger causality for inferring directed dependence from short multivariate time-series data
 
