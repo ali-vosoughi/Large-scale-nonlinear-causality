@@ -1,4 +1,6 @@
-The repo still is being updated regularly. 
+Currently I am working on some imporvements to the code and speed. 
+
+Please email me if you want the most recent version. mvosough    @ece.rochester.edu
 
 # Codes for nonlinear Granger causality (lsNGC)
  Large-scale nonlinear Granger causality for inferring directed dependence from short multivariate time-series data
